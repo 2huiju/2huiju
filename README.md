@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2huiju&layout=compact)](https://github.com/2huiju/github-readme-stats)
 
 
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/html-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
 
 <!--
