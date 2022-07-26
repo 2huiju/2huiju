@@ -21,7 +21,7 @@
 <br/> <br/>
 <h3>:fire: STATS :fire:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2huiju)](https://github.com/2huiju/github-readme-stats) <br/> <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2huiju&show_icons=true) <br/> <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2huiju&&langs_count=8)](https://github.com/2huiju/github-readme-stats)  
 
 
