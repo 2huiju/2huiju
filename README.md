@@ -7,7 +7,7 @@
 👀 I’m interested in Frontend Engineer <br/>
 🌱 I’m currently learning TypeScript, JavaScript, AWS, Docker... <br/>
 💞️ I’m looking to collaborate on ... <br/> <br/>
-📫 How to reach me <a href="[heejoo45890@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxTqZtdDdfkcBRdqjndqzZpjNckRJDTzCCfBhlGcXhQcxVcsszDsPdFnrNDWRzKSPPVVrT)"><img src="https://img.shields.io/badge/heejoo45890@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxTqZtdDdfkcBRdqjndqzZpjNckRJDTzCCfBhlGcXhQcxVcsszDsPdFnrNDWRzKSPPVVrT"/> <br/>
+📫 How to reach me <img src="https://img.shields.io/badge/heejoo45890@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heejoo45890@gmail.com" style="height : auto; padding-top: 10px;"/>
 
 <br/> <br/>
 <h3>:star: Stack :star:</h3>
