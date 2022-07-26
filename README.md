@@ -29,9 +29,12 @@
 <br/> <br/>
 <h3>:fire: STATS :fire:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2huiju&show_icons=true&count_private=true) <br/> <br/>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2huiju&show_icons=true&count_private=true) <br/> <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2huiju&&langs_count=8)](https://github.com/2huiju/github-readme-stats)  
-
+ -->
+ 
+| <a href="https://github.com/2huiju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=2huiju&show_icons=true&theme=graywhite&count_private=true&hide_border=true" alt="2huiju's github stats" /></a> | <a href="https://github.com/2huiju/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2huiju&layout=compact&theme=graywhite&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br/>
 <h3>:exclamation: GitHub Hits :exclamation:</h3>
@@ -43,4 +46,6 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFBCD9&height=200&section=footer)
 
 </div>
+
+
 
