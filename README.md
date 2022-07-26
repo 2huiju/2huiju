@@ -2,12 +2,12 @@
 	
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFBCD9&height=300&section=header&text=2huiju&fontSize=90)
 <br/> <br/>
-
-- 👋 Hi, I’m @2huiju
-- 👀 I’m interested in Frontend Engineer
-- 🌱 I’m currently learning TypeScript, JavaScript, AWS, Docker... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me heejoo45890@gmail.com
+	
+👋 Hi, I’m @2huiju <br/>
+👀 I’m interested in Frontend Engineer <br/>
+🌱 I’m currently learning TypeScript, JavaScript, AWS, Docker... <br/>
+💞️ I’m looking to collaborate on ... <br/> <br/>
+📫 How to reach me <a href="heejoo45890@gmail.com"><img src="https://img.shields.io/badge/heejoo45890@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=heejoo45890@gmail.com"/> <br/>
 
 <br/> <br/>
 <h3>:star: Stack :star:</h3>
