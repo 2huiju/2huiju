@@ -15,10 +15,11 @@
 <br/> <br/>
 <h3>:star: Stack :star:</h3>
 	
-<!=<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div>
+<!-- <!=<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /></div> -->
-<!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="100" /></div> -->
+<!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="100" /></div> --> -->
+	
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
