@@ -5,7 +5,7 @@
 	
 👋 Hi, I’m @2huiju <br/>
 👀 I’m interested in Frontend Engineer <br/>
-🌱 I’m currently learning TypeScript, JavaScript, AWS, Docker... <br/>
+🌱 I’m currently learning Flutter, Dart, TypeScript, JavaScript... <br/>
 💞️ I’m looking to collaborate on ... <br/> <br/>
 📫 How to reach me <img src="https://img.shields.io/badge/heejoo45890@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heejoo45890@gmail.com" style="height : auto; padding-top: 10px;"/>
 
@@ -15,11 +15,21 @@
 <br/> <br/>
 <h3>:star: Stack :star:</h3>
 	
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Flutter&fill=02569B&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Dart&fill=0175C2&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&fill=F7DF1E&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=TypeScript&fill=3178C6&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=React&fill=61DAFB&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Next.js&fill=000000&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=styled-components&fill=DB7093&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=GraphQL&fill=E10098&text=false&animation=spin)	
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Notion&fill=000000&text=false&animation=spin)
+	
 <!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /></div>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="100" /></div> -->
 	
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -30,7 +40,7 @@
 <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> -->
 
 <br/> <br/>
 <h3>:cupid: ME :cupid:</h3>
