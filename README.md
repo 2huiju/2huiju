@@ -21,9 +21,12 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=TypeScript&fill=3178C6&text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=React&fill=61DAFB&text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Next.js&fill=000000&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML5&fill=E34F26&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS3&fill=1572B6&text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=styled-components&fill=DB7093&text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=GraphQL&fill=E10098&text=false&animation=spin)	
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Notion&fill=000000&text=false&animation=spin)
+
 	
 <!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /></div>
