@@ -5,10 +5,13 @@
 	
 👋 Hi, I’m @2huiju <br/>
 👀 I’m interested in Frontend Engineer <br/>
-🌱 I’m currently learning TypeScript, JavaScript, React... <br/>
+🌱 I’m currently learning TypeScript, Next.js, React... <br/>
 💞️ I’m looking to collaborate on ... <br/> <br/>
-📫 How to reach me <img src="https://img.shields.io/badge/heejoo45890@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heejoo45890@gmail.com" style="height : auto; padding-top: 10px;"/>
-
+📫 How to reach me <a href="mailto:heejoo45890@gmail.com">
+  <img src="https://img.shields.io/badge/heejoo45890@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+</a> <a href="https://www.linkedin.com/in/%ED%9D%AC%EC%A3%BC-%EC%9D%B4-88b8b8250/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 
 
@@ -16,18 +19,13 @@
 <h3>:star: Stack :star:</h3>
 	
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&fill=F7DF1E&text=false&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=TypeScript&fill=3178C6&text=false&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=React&fill=61DAFB&text=false&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Next.js&fill=000000&text=false&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML5&fill=E34F26&text=false&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS3&fill=1572B6&text=false&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Flutter&fill=02569B&text=false&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Dart&fill=0175C2&text=false&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=styled-components&fill=DB7093&text=false&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=GraphQL&fill=E10098&text=false&animation=spin)	
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Notion&fill=000000&text=false&animation=spin)
+  ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=TypeScript&fill=3178C6&text=false&animation=spin)
+  ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=React&fill=61DAFB&text=false&animation=spin)
+  ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Next.js&fill=000000&text=false&animation=spin)
+  ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Tailwind%20CSS&fill=06B6D4&text=false&animation=spin)
 
+  ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)
+  ![Jotai](https://img.shields.io/badge/Jotai-000000?logoColor=white)
 	
 <!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /></div>
