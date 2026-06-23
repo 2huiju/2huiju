@@ -4,6 +4,9 @@
 	
 <h3 align="center">Contact Me</h3>
   <p>
+  <a href="https://huiju.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=vercel&logoColor=white" />
+</a>
   <img src="https://img.shields.io/badge/heejoo45890@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 </a> <a href="https://www.linkedin.com/in/%ED%9D%AC%EC%A3%BC-%EC%9D%B4-88b8b8250/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
